@@ -52,7 +52,7 @@ config server
 config server
 	option enabled '1'
 	option name '成都DNS'
-	option ip '202.98.96.68'
+	option ip '218.6.200.139'
 	option port '53'
 	option type 'udp'
 
